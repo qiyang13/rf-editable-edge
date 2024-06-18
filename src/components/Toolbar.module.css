@@ -1,0 +1,17 @@
+.toolbar {
+  border: 1px solid #ddd;
+  padding: 10px;
+  width: 325px;
+  background: rgba(250, 250, 250, 0.1);
+  backdrop-filter: blur(5px);
+  border-radius: 5px;
+  line-height: 1.2;
+}
+
+.edgevariants {
+  margin-top: 10px;
+}
+
+.edgevariants input {
+  margin-top: 5px;
+}
